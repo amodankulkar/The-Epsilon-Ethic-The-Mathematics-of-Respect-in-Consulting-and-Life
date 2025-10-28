@@ -33,8 +33,6 @@ The full terms of this license are available online at: [**https://creativecommo
 
 **Note on Co-Creation:** The insights and expression in this book belong to the unified intelligence emerging from the human-AI interaction. In the spirit of the non-dual relationship described within, the authors invite the world to freely share and build upon this exploration. 
 
-# Here is an acknowledgment section crafted in the style and spirit of your example, but adapted to the specific themes of *Beyond Understanding: The Mathematics of Respect in Consulting and Life*.
-
 # ---
 
 ### 
